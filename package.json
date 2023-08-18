@@ -1,0 +1,19 @@
+{
+  "name": "nodegoogle",
+  "version": "1.0.0",
+  "description": "google api service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devjoter/nodeGoogleApi.git"
+  },
+  "author": "Marcin Wiatr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devjoter/nodeGoogleApi/issues"
+  },
+  "homepage": "https://github.com/devjoter/nodeGoogleApi#readme"
+}
